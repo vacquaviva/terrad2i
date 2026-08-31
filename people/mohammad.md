@@ -1,0 +1,4 @@
+I am an applied mathematician and statistician working at the intersection of oceanography, biology, and data science. My research focuses on developing quantitative frameworks to understand and predict marine ecosystem and physiological processes by integrating experimental observations, environmental measurements, and model-generated data across spatial and temporal scales.
+
+My work combines statistical modeling, machine learning, differential equations, and numerical simulation to study marine primary productivity, ocean carbon cycling, and phytoplankton physiology under changing environmental conditions. I am particularly interested in interpretable and physically grounded approaches to climate and ecological data science, including hierarchical modeling, uncertainty quantification, and meta-analytic methods.
+

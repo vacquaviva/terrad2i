@@ -1,0 +1,1 @@
+Jina is a master’s student in Applied Mathematics at Columbia University. Her thesis focused on physics-informed neural networks (PINNs). She is broadly interested in scientific machine learning, dynamical systems, and climate modeling.

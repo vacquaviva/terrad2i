@@ -1,6 +1,6 @@
 const $ = (selector, scope = document) => scope.querySelector(selector);
 const $$ = (selector, scope = document) => [...scope.querySelectorAll(selector)];
-const SITE_ASSET_VERSION = '20260830-people-heading';
+const SITE_ASSET_VERSION = '20260831-jina-you';
 
 async function loadJSON(path) {
   const separator = path.includes('?') ? '&' : '?';

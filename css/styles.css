@@ -127,6 +127,7 @@ p { margin: 0 0 1rem; }
 .people-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
 .person-card { display: flex; flex-direction: column; overflow: hidden; background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); }
 .person-card img { width: 100%; aspect-ratio: 1 / .92; object-fit: cover; object-position: center 24%; }
+.person-card img[src$="davide-donno.png"] { object-fit: contain; object-position: center bottom; padding: 1rem 2rem 0; background: var(--foam); }
 .person-card .card-body { display: block; flex: 1; }
 .person-position { margin-bottom: .15rem; color: var(--teal); font-weight: 700; }
 .person-affiliation { margin-bottom: 1rem; color: var(--ink-soft); font-size: .9rem; }

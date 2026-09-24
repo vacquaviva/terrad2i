@@ -77,7 +77,7 @@ async function initNews() {
   if (!root) return;
   const items = await loadJSON('data/news.yml');
   const track = $('.news-track', root);
-  track.innerHTML = items.map(item => `<article class="news-item"><time class="news-date" datetime="${item.date}">${new Date(`${item.date}T12:00:00`).toLocaleDateString('en-US', {year:'numeric', month:'short', day:'numeric'})}</time><div><h3><a href="${item.url}">${item.title}</a></h3><p>${item.description}</p></div></article>`).join('');
+  track.innerHTML = items.map(item => `<article class="news-item"><time class="news-date" datetime="${item.date}">${new Date(`${item.date}T12:00:00`).toLocaleDateString('en-US', {year:'numeric', month:'short', day:'numeric'})}</time><div><h3><a href="${item.url}">${item.title}</a></h3><p>${item.description}</p>${item.translationUrl ? `<a class="news-translation" href="${item.translationUrl}">Read the English translation</a>` : ''}</div></article>`).join('');
 }
 
 async function initPeople() {

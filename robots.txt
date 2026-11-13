@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://vacquaviva.github.io/terrad2i/sitemap.xml
+Sitemap: https://vacquaviva.github.io/terrad2i/sitemap.txt

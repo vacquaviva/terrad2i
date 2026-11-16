@@ -2,5 +2,5 @@ https://vacquaviva.github.io/terrad2i/
 https://vacquaviva.github.io/terrad2i/people.html
 https://vacquaviva.github.io/terrad2i/projects.html
 https://vacquaviva.github.io/terrad2i/publications.html
-https://vacquaviva.github.io/terrad2i/teaching-resources.html
+https://vacquaviva.github.io/terrad2i/resources.html
 https://vacquaviva.github.io/terrad2i/corriere-english-translation.html

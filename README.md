@@ -48,7 +48,7 @@ index.html              Home
 people.html             People
 projects.html           Projects
 publications.html       Publications
-teaching-resources.html Teaching & Resources
+resources.html Teaching & Resources
 ```
 
 ## Accessibility
